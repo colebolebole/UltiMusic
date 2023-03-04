@@ -1,4 +1,4 @@
-# UtiliMusic
+# UltiMusic
 Simple discord music bot based on java and - https://github.com/jagrosh/MusicBot
 
 --
